@@ -1,6 +1,6 @@
-# Proyecto - Java con Pruebas para Autograding
+# Proyecto - Cálculo de Áreas
 
-Plantilla básica para proyecto de Java con Autograding
+En este proyecto desarrollarán el cálculo de las áreas de un cuadrado, rectángulo, triángulo y un romboide.
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
